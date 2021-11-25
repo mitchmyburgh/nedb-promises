@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/bajankristof/nedb-promises#readme",
   "dependencies": {
-    "@seald-io/nedb": "^2.2.0"
+    "@seald-io/nedb": "git://github.com/mitchmyburgh/nedb.git"
   },
   "devDependencies": {
     "eslint": "^8.2.0",
